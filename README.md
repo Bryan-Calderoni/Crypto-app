@@ -1,3 +1,7 @@
+![CryptoBanner](https://user-images.githubusercontent.com/77491173/105339374-e520d900-5bdc-11eb-98a2-3a64be074977.jpg)
+
+
+
 
 
 
@@ -11,6 +15,8 @@ The objective of this app is to learn about using Cupertino and Material Widgets
 ## The App
 
 A crypto currency price checking app.
+
+![Crypto-project](https://user-images.githubusercontent.com/77491173/105339470-fc5fc680-5bdc-11eb-8059-7f55ba8d1a2f.gif)
 
 
 
@@ -26,4 +32,5 @@ A crypto currency price checking app.
 
 >This is a companion project to The Ap Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+![crypto-app-Banner](https://user-images.githubusercontent.com/77491173/105339518-0c77a600-5bdd-11eb-9729-18a915fa4b82.jpg)
 
