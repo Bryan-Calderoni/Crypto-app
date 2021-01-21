@@ -16,7 +16,7 @@ The objective of this app is to learn about using Cupertino and Material Widgets
 
 A crypto currency price checking app.
 
-![Crypto-project](https://user-images.githubusercontent.com/77491173/105339470-fc5fc680-5bdc-11eb-8059-7f55ba8d1a2f.gif)
+![Crypto--gif](https://user-images.githubusercontent.com/77491173/105340630-6a58bd80-5bde-11eb-9bc1-8defc4636bab.gif)
 
 
 
