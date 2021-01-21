@@ -38,14 +38,13 @@ const List<String> cryptoList = [
   'monero',
 ];
 
-// const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-// const apiKey = 'ED2DDA9B-17E9-4621-8406-AC001F7997D3';
+
 
 const coinAPIURL = 'https://api.coingecko.com/api/v3/simple/price?ids=';
 
 const apiKey = '';
 
-//https://rest.coinapi.io/v1/exchangerate/BTC/EUR?apikey=ED2DDA9B-17E9-4621-8406-AC001F7997D3
+
 
 class CoinData {
   Future getCoinData(String selectedCurrency) async {
